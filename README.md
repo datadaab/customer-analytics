@@ -1,4 +1,8 @@
+![Title Image](https://github.com/datadaab/time-based-cohort-analysis/blob/main/segments.jpg)
+
 # B2B Transaction Cohort Analysis
+
+Click here to view the [Jupyter Notebook](https://github.com/datadaab/time-based-cohort-analysis/blob/main/Cohort_Analysis.ipynb).
 
 ## Overview
 
