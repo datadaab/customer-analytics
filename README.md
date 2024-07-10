@@ -2,7 +2,7 @@
 
 # B2B Transaction Cohort Analysis
 
-Click here to view the [Jupyter Notebook](https://github.com/datadaab/time-based-cohort-analysis/blob/main/Cohort_Analysis.ipynb).
+Click here to view my [Jupyter Notebook](https://github.com/datadaab/time-based-cohort-analysis/blob/main/Cohort_Analysis.ipynb).
 
 ## Overview
 
